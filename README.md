@@ -1,6 +1,8 @@
 # Extrator de Informações Técnicas com LLM (OpenAI API)
 
-## Autor: Gustavo Rodrigues Ribeiro
+## Autor
+
+- [*Gustavo Rodrigues Ribeiro*](https://github.com/GustavooRibas)
 
 ## Descrição Geral
 
@@ -160,3 +162,7 @@ A saída será salva no arquivo `saida.json` na raiz do projeto.
 - É possível estender este projeto para ler arquivos PDF, DOCX ou usar OCR para documentos digitalizados.
 - A integração com um banco de dados ou dashboard web pode viabilizar análise em escala de relatórios industriais.
 - Uma camada de pós-processamento com validações semânticas pode ser integrada para aumento de confiabilidade.
+
+## Contato
+
+- E-mail: gustavooriibeiro.ofc@hotmail.com
