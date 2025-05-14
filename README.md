@@ -2,7 +2,7 @@
 
 ## Autor: Gustavo Rodrigues Ribeiro
 
-## 📄 Descrição Geral
+## Descrição Geral
 
 Este projeto tem como objetivo a criação de uma aplicação baseada em modelos de linguagem (LLMs), especificamente a API da OpenAI, para realizar **análise automatizada de relatórios técnicos**. O foco está na extração precisa e estruturada de dados críticos a partir de arquivos de texto contendo informações técnicas sobre manutenção de equipamentos industriais.
 
